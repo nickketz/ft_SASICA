@@ -1,3 +1,8 @@
+porting of eeglab plugin 'SASICA' to fieldtrip.  Please see https://github.com/dnacombo/SASICA for original code
+
+currently on works on continous data
+----
+
 This is SASICA, a plugin to EEGlab to help you reject/select independent components based on various properties of these components.
 
 Available methods are:
