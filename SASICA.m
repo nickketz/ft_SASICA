@@ -1032,6 +1032,7 @@ def.MARA.enable = false;
 def.opts.FontSize = 14;
 def.opts.noplot = 0;
 def.opts.nocompute = 0;
+def.opts.plotallcomp = 1;
 
 
 
