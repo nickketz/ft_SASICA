@@ -1,6 +1,6 @@
 porting of eeglab plugin 'SASICA' to fieldtrip.  Please see https://github.com/dnacombo/SASICA for original code
 
-currently only works on continous data fieltrip data
+currently only works on continous fieldtrip data
 
 ----
 
